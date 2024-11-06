@@ -31,7 +31,7 @@ pip install pyqt5
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/fittrack.git
+git clone https://github.com/vaibhavguptahere/fittrack.git
 cd main
 ```
 
