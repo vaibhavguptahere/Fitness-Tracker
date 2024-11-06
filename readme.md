@@ -83,14 +83,6 @@ We’re a passionate team of developers, designers, and analysts. Here’s a bit
 | 🎨 **Durgesh**     | Frontend Developer     | [GitHub](https://github.com/member3) |
 | 📊 **Aditi**     | Data Analyst           | [GitHub](https://github.com/member4) |
 
-## 🤝 Contributing
 
-We welcome contributions! If you'd like to improve FitTrack, please follow these steps:
-
-1. **Fork the repository**.
-2. **Create a new branch** for your feature: `git checkout -b feature-name`.
-3. **Commit your changes**: `git commit -m "Add new feature"`.
-4. **Push to the branch**: `git push origin feature-name`.
-5. **Open a pull request**.
 
 
