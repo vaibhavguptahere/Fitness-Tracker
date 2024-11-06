@@ -1,7 +1,8 @@
 
 # 💪 FitTrack - Your Personal Fitness Tracker
 
-![FitTrack Logo](https://i.postimg.cc/4x2hjbBZ/LOGO-for-a-fitness-tracker-application-built-using-Python.jpg) <!-- Replace with your logo if you have one -->
+<img src="https://i.postimg.cc/4x2hjbBZ/LOGO-for-a-fitness-tracker-application-built-using-Python.jpg" width="500" height="300" />
+ <!-- Replace with your logo if you have one -->
 
 FitTrack is a powerful and user-friendly desktop application that helps you keep track of your fitness journey. Built with **Python** and **PyQt5**, this tool allows users to log daily workouts, track calories burned, and visualize progress with easy-to-read graphs. Whether you're a fitness enthusiast or just starting your journey, FitTrack is designed to make tracking your fitness goals simple and effective.
 
