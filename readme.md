@@ -1,7 +1,7 @@
 
 # 💪 FitTrack - Your Personal Fitness Tracker
 
-<img src="https://i.postimg.cc/4x2hjbBZ/LOGO-for-a-fitness-tracker-application-built-using-Python.jpg" width="300" height="300" />
+<img src="https://i.postimg.cc/4x2hjbBZ/LOGO-for-a-fitness-tracker-application-built-using-Python.jpg" width="300" height="250"/>
  <!-- Replace with your logo if you have one -->
 
 FitTrack is a powerful and user-friendly desktop application that helps you keep track of your fitness journey. Built with **Python** and **PyQt5**, this tool allows users to log daily workouts, track calories burned, and visualize progress with easy-to-read graphs. Whether you're a fitness enthusiast or just starting your journey, FitTrack is designed to make tracking your fitness goals simple and effective.
@@ -18,13 +18,13 @@ FitTrack is a powerful and user-friendly desktop application that helps you keep
 
 ## 🛠️ Requirements
 
-- **Python 3.x**
+- **Python**
 - **PyQt5**
 - **Matplotlib**
 
 Install dependencies with:
 ```bash
-pip install pyqt5 matplotlib
+pip install pyqt5
 ```
 
 ## 📥 Getting Started
@@ -32,7 +32,7 @@ pip install pyqt5 matplotlib
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/fittrack.git
-cd fittrack
+cd main
 ```
 
 ### 2️⃣ Set Up the Database
@@ -40,7 +40,7 @@ The application will automatically create the SQLite database (`fitness.db`) on 
 
 ### 3️⃣ Run the Application
 ```bash
-python fittrack.py
+python main.py
 ```
 
 ### 🏃 Usage Guide
@@ -77,8 +77,8 @@ We’re a passionate team of developers, designers, and analysts. Here’s a bit
 
 | Name         | Role                  | GitHub Profile                           |
 |--------------|-----------------------|------------------------------------------|
-| 🚀 **Anshul Bhathija**     | Project Lead           | [GitHub](https://github.com/member1) |
-| 🖥️ **Vaibhav Gupta**     | Backend Developer      | [GitHub](https://github.com/member2) |
+| 🚀 **Anshul Bhathija**     | Project Lead           | [GitHub](https://www.linkedin.com/in/anshul-bhathija-8229b0301/) |
+| 🖥️ **Vaibhav Gupta**     | Backend Developer      | [GitHub](https://www.linkedin.com/in/vaibhavguptahere-/) |
 | 🎨 **Durgesh**     | Frontend Developer     | [GitHub](https://github.com/member3) |
 | 📊 **Aditi**     | Data Analyst           | [GitHub](https://github.com/member4) |
 
