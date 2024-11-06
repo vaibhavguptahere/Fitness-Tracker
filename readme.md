@@ -68,9 +68,8 @@ python main.py
 
 ## 📂 Code Structure
 
-- **`fittrack.py`**: Main application code.
-- **`fitness.db`**: SQLite database to store workout data.
-- **assets/**: (Optional) Directory for images, animations, and other resources.
+- **`main.py`**: Main application code.
+- **`readme.md`**: All about the project.
 
 ## 👥 Meet the Team
 
