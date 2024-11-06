@@ -25,6 +25,7 @@ FitTrack is a powerful and user-friendly desktop application that helps you keep
 Install dependencies with:
 ```bash
 pip install pyqt5
+pip install pyqt5-sql
 ```
 
 ## 📥 Getting Started
